@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c08731f1.css",
+    "main.js": "/static/js/main.706baf9a.js",
+    "static/media/bantex1.jpg": "/static/media/bantex1.301dd9f376f6de925eb5.jpg",
+    "static/media/bangle1.jpeg": "/static/media/bangle1.5d3c107a19cedf75b6e8.jpeg",
+    "static/media/bangle2.jpg": "/static/media/bangle2.72ef42866e3eb95e5e21.jpg",
+    "static/media/bangle1.jpg": "/static/media/bangle1.0549d9aea133f1142a52.jpg",
+    "index.html": "/index.html",
+    "main.c08731f1.css.map": "/static/css/main.c08731f1.css.map",
+    "main.706baf9a.js.map": "/static/js/main.706baf9a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c08731f1.css",
+    "static/js/main.706baf9a.js"
+  ]
+}
